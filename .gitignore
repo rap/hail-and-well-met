@@ -1,8 +1,0 @@
-.gitignore
-
-Gruntfile.js
-package.json
-node_modules/
-.sass_cache/
-
-index.html
